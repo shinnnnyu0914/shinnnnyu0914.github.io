@@ -1,0 +1,134 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="shinnnnyu0914.github.io" resolutions="1x,2x" timestamp="1556128701609">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="3798602510" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4286661555" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="201911-2.jpg" crc="3836090407" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="201911-2_2x.jpg" crc="503839772" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="201911-1.jpg" crc="198349227" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1240-4.png" crc="198365920" ref="index"/>
+    <file name="u1240-4_2x.png" crc="3840917421" ref="index"/>
+    <file name="u1247-4.png" crc="140864141" ref="index"/>
+    <file name="u1247-4_2x.png" crc="387909667" ref="index"/>
+    <file name="20181221-2.jpg" crc="4125063246" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1250-4.png" crc="300923038" ref="index"/>
+    <file name="u1250-4_2x.png" crc="3856059747" ref="index"/>
+    <file name="201911-7.jpg" crc="310588128" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="201911-8.jpg" crc="3818567131" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u1253-7.png" crc="444367735" ref="index"/>
+    <file name="u1253-7_2x.png" crc="34021989" ref="index"/>
+    <file name="u1256-7.png" crc="3804373776" ref="index"/>
+    <file name="u1256-7_2x.png" crc="364398828" ref="index"/>
+    <file name="人物設定03.png" crc="3886690822" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="人物設定03_2x.png" crc="59467355" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="人物設定03.jpg" crc="3854350268" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="人物設定03_2x.jpg" crc="150294921" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2018126-12.jpg" crc="3793863738" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2018126-12_2x.jpg" crc="483572572" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20181211-3.jpg" crc="3860844156" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20181211-3_2x.jpg" crc="465944847" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20181223.jpg" crc="487268467" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20181223_2x.jpg" crc="3775806467" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="201911-3.jpg" crc="4012879196" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="201911-3_2x.jpg" crc="500794129" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20181216-1.jpg" crc="190229242" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20181216-1_2x.jpg" crc="444602771" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20181215-2.jpg" crc="3845009850" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1259-4.png" crc="4130922169" ref="index"/>
+    <file name="u1259-4_2x.png" crc="4155173931" ref="index"/>
+    <file name="01.jpg" crc="4191584802" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="00.png" crc="47662587" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1262-4.png" crc="3945718885" ref="index"/>
+    <file name="u1262-4_2x.png" crc="459197090" ref="index"/>
+    <file name="標誌.png" crc="66651311" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="標誌_2x.png" crc="182361067" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="標誌-1.png" crc="3802240372" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="標誌-1_2x.png" crc="3936278333" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="標誌-2.png" crc="3990214280" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="標誌-2_2x.png" crc="3936022818" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="標誌-3.png" crc="515240158" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="標誌-3_2x.png" crc="4257387866" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4118630001" seo="true" mt="1556128685015" redirect="true"/>
+</manifest>
